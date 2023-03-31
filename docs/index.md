@@ -53,3 +53,5 @@ The information on this site is separated into
 
 ----
 Diese Unterlagen wurden mit [MkDocs](http://mkdocs.org), [Markdown](https://en.wikipedia.org/wiki/Markdown) und [Visual Studio Code](https://code.visualstudio.com/) erstellt und mit dem individuell angepassten [Material Theme for MkDocs](https://squidfunk.github.io/mkdocs-material/) gerendert.
+
+Vielen Dank an Stefan Zander für die Bereitstellung.
