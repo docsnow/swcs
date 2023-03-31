@@ -39,10 +39,10 @@ theme:
   font: false
 
 extra_css:
-  - 'stylesheets/extra.css'
+  - '_stylesheets/extra.css'
 
 extra_javascript:
-  - 'javascript/extra.js'
+  - '_javascript/extra.js'
 
 markdown_extensions:
   - admonition
