@@ -57,7 +57,7 @@ The Factsheet describes **corner stones** of your research. It serves as **basis
 
 Use the following structure and document each aspect with very few sentences:
 
-- <https://projects.fbi.h-da.de/~s.zander/wai/html/expose/>
+- [Factsheet](Factsheet.md)
 
 <!-- 1. **Title and (optionally) Subheading**
 2. **Problem Statement** ie., what is the problem and why is it a problem (the motivation of your work)
